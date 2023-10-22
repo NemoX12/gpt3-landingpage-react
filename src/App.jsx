@@ -2,7 +2,7 @@ import {
   Footer,
   Blog,
   Possibility,
-  WhatGPT4,
+  WhatGPT3,
   Header,
   Features,
 } from "./containers";
@@ -18,7 +18,7 @@ const App = () => {
       </div>
 
       <Brand />
-      <WhatGPT4 />
+      <WhatGPT3 />
       <Features />
       <Possibility />
       <CTA />
