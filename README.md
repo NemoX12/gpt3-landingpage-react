@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1baaafcb-681d-49c6-850f-082f883cef17/deploy-status)](https://app.netlify.com/sites/courageous-lollipop-e396c4/deploys)
+
 # **GPT3 Landing Page**
 
 [GPT3 landing page](https://courageous-lollipop-e396c4.netlify.app/) - it's a landing page built on React and used Figma designs
