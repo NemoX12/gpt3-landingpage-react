@@ -1,8 +1,8 @@
 # **GPT3 Landing Page**
 
-[GPT3 landing page]() - it's a landing page built on React and used Figma designs
+[GPT3 landing page](https://courageous-lollipop-e396c4.netlify.app/) - it's a landing page built on React and used Figma designs
 
-![](/public/assets/landing.PNG)
+![page_photo](/public/assets/landing.PNG)
 
 ---
 
@@ -15,7 +15,7 @@
 1. Install source code
 
    ```
-    git clone https://github.com/
+    git clone https://github.com/NemoX12/gpt3-landingpage-react.git
    ```
 
 2. Open cloned directory
