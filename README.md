@@ -2,7 +2,7 @@
 
 [GPT3 landing page]() - it's a landing page built on React and used Figma designs
 
-![](./public/assets/landing.png)
+![](/public/assets/landing.png)
 
 ---
 
